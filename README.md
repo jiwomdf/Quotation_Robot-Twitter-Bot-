@@ -12,10 +12,10 @@ Image API : https://source.unsplash.com <br>
 Compliment API : https://complimentr.com <br>
 
 <b>Credit for the library goes to:</b> <br>
-Twit: https://github.com/desmondmorris/node-twitter <br>
+Twit: https://github.com/ttezel/twit <br>
 Fetch: https://github.com/github/fetch <br>
 Request: https://github.com/request/request <br>
-Twitter: https://www.npmjs.com/package/twitter <br>
+Twitter: https://github.com/desmondmorris/node-twitter <br>
 Natural language processing: http://compromise.cool 
 
 If there are any bug and request, you can ask for it on the issues tab. Thank you and have a good day 😃 🙏

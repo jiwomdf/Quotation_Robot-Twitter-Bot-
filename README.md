@@ -18,4 +18,4 @@ Request: https://github.com/request/request <br>
 Twitter: https://www.npmjs.com/package/twitter <br>
 Natural language processing: http://compromise.cool 
 
-If there are any bug and request, you can ask for it on the issues tab. Thank you  🙏
+If there are any bug and request, you can ask for it on the issues tab. Thank you and have a good day 😃 🙏

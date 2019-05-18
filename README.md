@@ -1,9 +1,9 @@
 # Quotation_Robot-Twitter-Bot-
 <b>This is the page of Quotation_Robot (Twitter Bot)</b>
 
-Quotation Robot is a twitter bot that post a random quote and matching it with a gif or an image
-The bot is posting a tweet four time in every six hour
-Our post is not owned by us, but it's from the Public API 
+Quotation Robot is a twitter bot that post a random quote and matching it with a gif or an image. <br>
+The bot is posting a tweet four time in every six hour. <br>
+Our post is not owned by us, but it's from the Public API. <br>
 
 <b>Credit for the API goes to:</b> <br>
 Quote API : https://github.com/lukepeavey/quota <br>

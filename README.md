@@ -12,9 +12,9 @@ Compliment API : https://complimentr.com <br>
 
 <b>Credit for the library goes to:</b> <br>
 Twit: https://github.com/desmondmorris/node-twitter <br>
-fetch: https://github.com/github/fetch <br>
-request: https://github.com/request/request <br>
+Fetch: https://github.com/github/fetch <br>
+Request: https://github.com/request/request <br>
 Twitter: https://www.npmjs.com/package/twitter <br>
 Natural language processing: http://compromise.cool 
 
-if there are any bug and request, you can ask for it on the issues tab. Thank you  🙏
+If there are any bug and request, you can ask for it on the issues tab. Thank you  🙏

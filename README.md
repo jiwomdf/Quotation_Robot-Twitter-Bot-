@@ -10,11 +10,11 @@ Quote API : https://github.com/lukepeavey/quota <br>
 Image API : https://source.unsplash.com <br>
 Compliment API : https://complimentr.com <br>
 
-<b>For the library this bot use are:</b> <br>
+<b>Credit for the library goes to:</b> <br>
 Twit: https://github.com/desmondmorris/node-twitter <br>
 fetch: https://github.com/github/fetch <br>
 request: https://github.com/request/request <br>
 Twitter: https://www.npmjs.com/package/twitter <br>
 nlp: http://compromise.cool 
 
-if there is any bug and request, you can ask it on the issues tab. Thank you  🙏
+if there are any bug and request, you can ask for it on the issues tab. Thank you  🙏

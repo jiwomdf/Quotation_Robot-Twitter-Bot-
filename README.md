@@ -16,6 +16,6 @@ Twit: https://github.com/ttezel/twit <br>
 Fetch: https://github.com/github/fetch <br>
 Request: https://github.com/request/request <br>
 Twitter: https://github.com/desmondmorris/node-twitter <br>
-Natural language processing: http://compromise.cool 
+Natural language processing: https://github.com/spencermountain/compromise 
 
 If there are any bug and request, you can ask for it on the issues tab. Thank you and have a good day 😃 🙏

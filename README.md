@@ -1,6 +1,6 @@
-# Quotation_Robot-Twitter-Bot-
-<b>This is the page of Quotation_Robot (Twitter Bot)</b><br>
-https://twitter.com/Quotation_Robot
+## Quotation_Robot-Twitter-Bot-
+# <b>This is the page of Quotation_Robot (Twitter Bot)</b><br>
+# link: https://twitter.com/Quotation_Robot
 
 Quotation Robot is a twitter bot that post a random quote and matching it with a gif or an image. <br>
 The bot is posting a tweet three times in every day. <br>

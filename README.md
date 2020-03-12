@@ -3,7 +3,7 @@
 # link: https://twitter.com/Quotation_Robot
 
 Quotation Robot is a twitter bot that post a random quote and matching it with a gif or an image. <br>
-The bot is posting a tweet three times in every day. <br>
+The bot is posting a tweet three times a day. <br>
 You can also mention us, and get a random compliment from us. <br>
 Content isn't owned by this bot, but it's from the Public API. <br>
 
